@@ -6,3 +6,4 @@ Preview the website with this link
 https://htmlpreview.github.io/?https://github.com/looka2/Studio/blob/main/lukafriendlywebsite.html
 
 This website is fully open source and made by Luka
+*This github may be discontinued however this is highley unlickley
