@@ -5,3 +5,5 @@ There used to be a preview link however it would not update so it is removed.
 
 This website is fully open source and made by Luka
 *This github may be discontinued however this is highley unlickley
+
+PLEASE DO NOT STEAL MY CODE. THANK YOU
